@@ -1,0 +1,19 @@
+{
+    "name": "mbed-mqtt",
+    "version": "0.1.0",
+    "description": "MQTT library for mbed-os/platform IO, based on https://github.com/ARMmbed/mbed-mqtt",
+    "authors":
+    [
+      {
+        "name": "Serge Ayer",
+        "email": "serge.ayer@hefr.ch",
+        "maintainer": true
+      }
+    ],
+    "license": "Apache-2.0",
+    "frameworks": "mbed",
+    "platforms": "ststm32",
+    "build": {
+      "builder": "MbedLibBuilder"
+    } 
+  }
